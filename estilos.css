@@ -1,0 +1,32 @@
+.logo{
+    width: 90px;
+    height: 90px;
+}
+
+.containerTextos{
+    width: 100%;
+    height: 480px;
+    display: flex;
+    margin-top: 40px;
+    text-align: center;
+    gap: 50px;
+    margin-left: 77px;
+
+}
+
+.tituloAbaixo{
+    font-size: 32px;
+}
+
+.textoAbaixo{
+    font-size: 14px;
+    color: grey;
+}
+
+.quemSomos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: blue;
+}
